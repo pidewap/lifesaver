@@ -2,12 +2,12 @@
 if (basename(__FILE__) == basename($_SERVER['PHP_SELF'])){ exit(0); } ?>
 
 <HTML>
-<title>softwarefreak.in
+<title>videobokepbaru.com
 </title>
 <body onload="document.getElementById('address_box').focus()">
 <link rel="stylesheet" type="text/css" media="handheld,screen" href="style.css">
-<center><div><a href="http://softwarefreak.in/">
-<img src="http://softwarefreak.in/sf.png"></a></div><br>
+<center><div><a href="http://videobokepbaru.com/">
+<img src="http://wapvevo.yn.lt/logo.png"></a></div><br>
 
 <?php switch ($data['category']) {
 case 'auth': ?>
