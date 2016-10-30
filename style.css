@@ -1,0 +1,10 @@
+body {background-color: #F0E68C; color: #FFFFFF; }
+
+input {color: #000000;
+border: 1px ridge #000000;
+background-color: #F0E68C;}
+
+div {color: #000000;
+background-color: #BDB76B;
+border: 2px #8A360F; border-style:solid;
+text-align: center;}
